@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import Member from "./member";
 
 const AboutUs: React.FC = () => {
